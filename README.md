@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as a Senior Frontend Engineer at Doodle ⏲️
+I’m currently working as a Senior Frontend Engineer at Doodle.
 
 <!--
 **tomrenard/tomrenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
