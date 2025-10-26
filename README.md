@@ -2,6 +2,10 @@
 
 I’m currently working as a Senior Frontend Engineer at Doodle.
 
+## GitHub Profile Summary
+
+![Tom's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom-renard&theme=dracula)
+
 <!--
 **tomrenard/tomrenard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
