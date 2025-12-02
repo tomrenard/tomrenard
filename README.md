@@ -50,4 +50,4 @@ Contributing to the evolution of Doodle’s scheduling platform into a **faster,
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tom-renard-2021/)  
-- [Portfolio](https://tomrenard.netlify.app/)  
+- [Portfolio](https://tomrenard.site/)  
