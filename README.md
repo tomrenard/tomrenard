@@ -4,12 +4,6 @@
 _Apr 2023 – Present | Berlin, Germany_  
 Contributing to the evolution of Doodle’s scheduling platform into a **faster, more inclusive product used by millions**.
 
-## GitHub Profile Summary
-
-![Tom's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom-renard&theme=dracula)
-
-<sub>Note: This reflects activity from my company/professional GitHub account.</sub>
-
 ---
 
 ## 🔧 Skills & Technologies
