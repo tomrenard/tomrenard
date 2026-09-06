@@ -4,7 +4,9 @@
 
 Currently at **Aroundhome**, a marketplace for home improvement: homeowners describe a project, we match them with vetted local trade companies, and the partner pays for the introduction, not the homeowner. I take features from the first conversation to the number they move, which means shaping the requirement with product and design, building it wherever it needs to be built, then owning the rollout and the read on whether it worked.
 
-Frontend is where I am deepest, React and TypeScript. I go into the Go and Ruby services when the problem lives there, and into the infrastructure when it lives there instead.
+Frontend is where I am deepest, and the decisions I care about are the ones with system wide consequences: what runs in the browser at all, where the client and server line sits, and how a design system gets adopted rather than just designed. Under React there is a web platform, and that is where scaled frontends break. I go into the Go and Ruby services when the problem lives there, and into the infrastructure when it lives there instead.
+
+The longer version of that, with the work each position came from, is at [tomrenard.site/craft](https://tomrenard.site/craft).
 
 **Stack:** TypeScript, React, Next.js, Astro, Tailwind, Go, Ruby, GraphQL, Postgres, Terraform, Playwright, Vitest.
 
